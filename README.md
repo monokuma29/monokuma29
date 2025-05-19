@@ -28,7 +28,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 -----------------------------------------------------------------------------------------------------
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=monokuma29&theme=dark&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![https://github.com/monokuma29](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monokuma29&theme=solarized_dark)
 ![https://github.com/monokuma29](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monokuma29&theme=solarized_dark)
 ![https://github.com/monokuma29](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monokuma29&theme=solarized_dark)
